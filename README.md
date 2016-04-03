@@ -70,6 +70,8 @@ repeatedly (there are also alternatives to matrix inversion that we will
 not discuss here). Your assignment is to write a pair of functions that
 cache the inverse of a matrix.
 
+For an additional explanation of caching and environments, along with an extensive example, read https://asitarrives.wordpress.com/2014/10/18/understanding-lexical-scoping-in-r-great-guidance-for-community-ta-in-coursera/
+
 Write the following functions:
 
 1.  `makeCacheMatrix`: This function creates a special "matrix" object
